@@ -1,0 +1,36 @@
+.container-nav {
+	background-color: rgb(63, 63, 44);
+
+}
+
+.container-nav a {
+	color: azure;
+}
+
+.text-center {
+
+	background-color: rgb(63, 63, 44);
+	padding: 20px;
+}
+
+.titulo {
+
+
+	padding: 20px;
+	text-align: center;
+}
+
+.column-container {
+	margin: 60px;
+}
+
+
+.column-container img {
+
+	padding: 30px;
+
+}
+
+.column-container li {
+	margin-left: 30px;
+}

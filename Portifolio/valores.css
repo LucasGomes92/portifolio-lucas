@@ -1,0 +1,27 @@
+.container-nav {
+	background-color: rgb(63, 63, 44);
+
+}
+
+.container-nav a {
+	color: azure;
+}
+
+.text-center {
+
+	background-color: rgb(63, 63, 44);
+	padding: 20px;
+}
+
+.container {
+	display: flex;
+}
+
+.container img {
+	padding: 50px;
+}
+
+.column {
+	padding: 50 px;
+	margin-top: 50px;
+}

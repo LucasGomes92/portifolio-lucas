@@ -1,0 +1,60 @@
+.container-nav {
+	background-color: rgb(63, 63, 44);
+
+}
+
+.container-nav a {
+	color: azure;
+}
+
+.text-center {
+
+	background-color: rgb(63, 63, 44);
+	padding: 20px;
+}
+
+.video {
+
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+}
+
+.video video {
+	height: 300px;
+	width: 700px;
+	margin: 5%;
+	position: static;
+	text-align: center;
+}
+
+.column p {
+	padding: 5px;
+}
+
+.column h2 {
+	padding-left: 15px;
+}
+
+.titulo {
+	text-align: center;
+	margin-top: 50px;
+	padding-bottom: 30px;
+}
+
+.column-container {
+
+	margin: 30px;
+	padding: 15px;
+}
+
+.text-final {
+
+	text-align: center;
+	font-weight: bold;
+}
+
+.column-icon img {
+	padding: 20px;
+}
